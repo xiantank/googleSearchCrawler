@@ -1,0 +1,11 @@
+{
+  "name": "googleSearchCrawler",
+  "version": "0.0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node googleSearchCrawler.js dict.txt"
+  },
+  "dependencies": {
+    "crawler": "0.4.3"
+  }
+}
